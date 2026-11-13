@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><title>Campus Bites - Home</title></head> 
+<body> 
+<header> 
+<h1>&#127828; Campus Bites</h1>  
+<nav><ul> 
+<li><a href="index.html"><strong>Home</strong></a></li> 
+<li><a href="menu.html">Today's Menu</a></li>   
+<li><a href="feedback.html">Give Feedback</a></li> 
+</ul></nav> 
+</header> 
+<main>  
+<section>  
+<h2>Welcome to your Campus Canteen Hub</h2>   
+<p>Skip the confusion, check the menu beforehand!</p>
+</section>
+</main> 
+</body></html>
